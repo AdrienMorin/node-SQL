@@ -7,8 +7,8 @@ const SQLQueryString = `
     FROM coffreFort;
 `;
 
-//initialisation();
+initialisation();
 
-SQLQuery(SQLQueryString);
+//SQLQuery(SQLQueryString);
 
 //verificationAPI(0,"enigme");
