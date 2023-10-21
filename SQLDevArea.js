@@ -6,8 +6,8 @@ const SQLQueryString = `
     SELECT nom, prenom FROM employes WHERE etage = 11;
 `;
 
-//initialisation();
+initialisation();
 
 //SQLQuery(SQLQueryString);
 
-verificationAPI(0,"enigme");
+//verificationAPI(0,"enigme");
